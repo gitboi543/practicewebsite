@@ -1,0 +1,10 @@
+h1 {
+  color: green;
+  background-color: black;
+}
+#menu ul {
+  list-style: none;
+}
+#menu li {
+  display: inline;
+}
